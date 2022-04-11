@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d95445c4.css",
+    "main.js": "/static/js/main.ba8d01ec.js",
+    "static/js/787.ae1b3bd0.chunk.js": "/static/js/787.ae1b3bd0.chunk.js",
+    "static/media/겸암정사.jpg": "/static/media/겸암정사.21f680c00718231e7d76.jpg",
+    "static/media/장미.jpg": "/static/media/장미.da438281369ba86f8b31.jpg",
+    "index.html": "/index.html",
+    "main.d95445c4.css.map": "/static/css/main.d95445c4.css.map",
+    "main.ba8d01ec.js.map": "/static/js/main.ba8d01ec.js.map",
+    "787.ae1b3bd0.chunk.js.map": "/static/js/787.ae1b3bd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d95445c4.css",
+    "static/js/main.ba8d01ec.js"
+  ]
+}
