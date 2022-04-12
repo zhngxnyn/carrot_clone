@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.d95445c4.css",
-    "main.js": "/static/js/main.ba8d01ec.js",
-    "static/js/787.ae1b3bd0.chunk.js": "/static/js/787.ae1b3bd0.chunk.js",
-    "static/media/겸암정사.jpg": "/static/media/겸암정사.21f680c00718231e7d76.jpg",
-    "static/media/장미.jpg": "/static/media/장미.da438281369ba86f8b31.jpg",
-    "index.html": "/index.html",
-    "main.d95445c4.css.map": "/static/css/main.d95445c4.css.map",
-    "main.ba8d01ec.js.map": "/static/js/main.ba8d01ec.js.map",
-    "787.ae1b3bd0.chunk.js.map": "/static/js/787.ae1b3bd0.chunk.js.map"
+    "main.css": "/carrot_clone/static/css/main.8392ddf7.css",
+    "main.js": "/carrot_clone/static/js/main.2fab18e1.js",
+    "static/js/787.ae1b3bd0.chunk.js": "/carrot_clone/static/js/787.ae1b3bd0.chunk.js",
+    "static/media/겸암정사.jpg": "/carrot_clone/static/media/겸암정사.21f680c00718231e7d76.jpg",
+    "static/media/장미.jpg": "/carrot_clone/static/media/장미.da438281369ba86f8b31.jpg",
+    "index.html": "/carrot_clone/index.html",
+    "main.8392ddf7.css.map": "/carrot_clone/static/css/main.8392ddf7.css.map",
+    "main.2fab18e1.js.map": "/carrot_clone/static/js/main.2fab18e1.js.map",
+    "787.ae1b3bd0.chunk.js.map": "/carrot_clone/static/js/787.ae1b3bd0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d95445c4.css",
-    "static/js/main.ba8d01ec.js"
+    "static/css/main.8392ddf7.css",
+    "static/js/main.2fab18e1.js"
   ]
 }
